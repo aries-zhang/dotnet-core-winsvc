@@ -2,7 +2,7 @@
 A example of how to compose a windows service in dotnet core.
 
 
-Since there is no officially provided solution to run dotnet core as windows service, there are two ways created by the community.
+Since there is no officially provided solution to run dotnet core as windows service, there are the following ways innovated by the community.
 
 1. Run the console application in docker, you can see the disscussion [here](https://github.com/aspnet/Home/issues/1845).
 
