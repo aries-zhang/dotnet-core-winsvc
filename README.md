@@ -6,7 +6,7 @@ Since there is no officially provided solution to run dotnet core as windows ser
 
 1. Run the console application in docker, you can see the disscussion [here](https://github.com/aspnet/Home/issues/1845).
 
-2. Bridging, which I would like to call so, is more usual. There are discussions on StackOverFlow (here)[https://stackoverflow.com/questions/41014513/windows-service-with-net-core], and the representative libraries are [DotNetCore.WindowsService](https://github.com/PeterKottas/DotNetCore.WindowsService) and 
+2. Bridging, which I would like to call so, is more usual. There are discussions on [StackOverFlow](https://stackoverflow.com/questions/41014513/windows-service-with-net-core), and the representative libraries are [DotNetCore.WindowsService](https://github.com/PeterKottas/DotNetCore.WindowsService) and 
 [DasMulli.Win32.ServiceUtils](https://github.com/dasMulli/dotnet-win32-service). You can easily create a windows service app following their documents, so I won't talk talk too much about this way here.
 
 
